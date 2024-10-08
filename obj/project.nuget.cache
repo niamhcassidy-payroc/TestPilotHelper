@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6Y8ArKX0R3a8ckIZadoiu9Iq2znMKpmEKVv89dCSaRRkOLY0HqZ9sS7P2V0DUvkOyNJaqrX0R5U7Jv2EcJ6DoA==",
+  "success": true,
+  "projectFilePath": "C:\\DEV\\TestPilotHelper\\TestPilotHelper\\TestPilotHelper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\niamh.cassidy\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

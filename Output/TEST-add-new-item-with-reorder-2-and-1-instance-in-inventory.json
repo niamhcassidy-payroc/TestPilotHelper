@@ -1,0 +1,65 @@
+{
+  "IPSMSPRotate": {
+    "tables": {
+      "dbo.DeploymentInventoryItem": {
+        "data": [
+          {
+            "InventoryItemTypeId": 1,
+            "ManufacturerId": 12,
+            "PrimaryVendorId": 2,
+            "Model": "Test Model - {{ guid.new() }}",
+            "HardwareAdvantagePlanId": 2,
+            "IsBulkItem": true,
+            "IsStockedItem": true,
+            "IsEligibleForReorder": true,
+            "IsSupported": true,
+            "IsDeployable": true,
+            "IsAgentDeployable": true,
+            "ReorderLevel": 2,
+            "ReorderQty": 3,
+            "Notes": "Test inventory item.",
+            "SupportsPaymentech": true,
+            "SupportsTSYS": true,
+            "SupportsFDC": true,
+            "SupportsIBX": false,
+            "Active": true,
+            "CreatedBy": 495,
+            "CreatedDate": "{{ datetime.now() }}",
+            "UpdatedBy": 495,
+            "UpdatedDate": "{{ datetime.now() }}",
+            "DeletedBy": null,
+            "DeletionDate": null,
+            "CallTagShippingAddressTypeId": 6
+          }
+        ]
+      },
+      "dbo.DeploymentInventoryItemInstance": {
+        "data": [
+          {
+            "InventoryItemId": "{{ reference.query('IPSMSPRotate', 'dbo.DeploymentInventoryItem') | reference.get_primary_key() }}",
+            "InventoryItemInstanceConditionId": 1,
+            "InventoryItemInstanceStatusId": 1,
+            "PurchaseOrderId": null,
+            "PurchaseOrderItemInventoryItemId": null,
+            "SerialNumber": "Test-{{ guid.new() }}",
+            "PaymentTermId": null,
+            "CreatedBy": 495,
+            "CreatedDate": "{{ datetime.now() }}",
+            "UpdatedBy": 495,
+            "UpdatedDate": "{{ datetime.now() }}",
+            "DeletedBy": null,
+            "DeletionDate": null,
+            "AllocatedBy": null,
+            "AllocatedTo": null,
+            "AllocatedDate": null,
+            "AllocationNotes": null,
+            "AllocatedToISCId": null,
+            "AllocatedToVendorId": null,
+            "AllocatedItemToBeReturned": null
+          }
+        ]
+      }
+    },
+    "type": "SqlServer"
+  }
+}

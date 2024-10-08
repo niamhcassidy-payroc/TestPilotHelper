@@ -1,0 +1,17 @@
+C:\DEV\TestPilotHelper\TestPilotHelper\obj\Debug\net8.0\TestPilotHelper.csproj.AssemblyReference.cache
+C:\DEV\TestPilotHelper\TestPilotHelper\obj\Debug\net8.0\TestPilotHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\TestPilotHelper\TestPilotHelper\obj\Debug\net8.0\TestPilotHelper.AssemblyInfoInputs.cache
+C:\DEV\TestPilotHelper\TestPilotHelper\obj\Debug\net8.0\TestPilotHelper.AssemblyInfo.cs
+C:\DEV\TestPilotHelper\TestPilotHelper\obj\Debug\net8.0\TestPilotHelper.csproj.CoreCompileInputs.cache
+C:\DEV\TestPilotHelper\TestPilotHelper\bin\Debug\net8.0\TestPilotHelper.exe
+C:\DEV\TestPilotHelper\TestPilotHelper\bin\Debug\net8.0\TestPilotHelper.deps.json
+C:\DEV\TestPilotHelper\TestPilotHelper\bin\Debug\net8.0\TestPilotHelper.runtimeconfig.json
+C:\DEV\TestPilotHelper\TestPilotHelper\bin\Debug\net8.0\TestPilotHelper.dll
+C:\DEV\TestPilotHelper\TestPilotHelper\bin\Debug\net8.0\TestPilotHelper.pdb
+C:\DEV\TestPilotHelper\TestPilotHelper\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\DEV\TestPilotHelper\TestPilotHelper\obj\Debug\net8.0\TestPilo.2D57FCBD.Up2Date
+C:\DEV\TestPilotHelper\TestPilotHelper\obj\Debug\net8.0\TestPilotHelper.dll
+C:\DEV\TestPilotHelper\TestPilotHelper\obj\Debug\net8.0\refint\TestPilotHelper.dll
+C:\DEV\TestPilotHelper\TestPilotHelper\obj\Debug\net8.0\TestPilotHelper.pdb
+C:\DEV\TestPilotHelper\TestPilotHelper\obj\Debug\net8.0\TestPilotHelper.genruntimeconfig.cache
+C:\DEV\TestPilotHelper\TestPilotHelper\obj\Debug\net8.0\ref\TestPilotHelper.dll
